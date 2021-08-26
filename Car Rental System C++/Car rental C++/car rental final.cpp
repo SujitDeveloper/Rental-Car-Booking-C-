@@ -6,8 +6,7 @@
 //#include <iostream>
 //#include <fstream>
 //#include <dos.h>
-//#include <iomanip> 
-//Brought To You by code-projects.org
+//#include <iomanip>
 // included required library files
 
 using namespace std;
